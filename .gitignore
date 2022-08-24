@@ -35,3 +35,4 @@ build/
 ### JAVA ###
 *.log
 *.log.gz
+src/test/
